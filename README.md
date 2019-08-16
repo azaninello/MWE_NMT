@@ -23,7 +23,8 @@ MWE_LISTS
 ---------
 
 Contains the list of MWEs extracted from the train_big dataset with the annotate_mwe.py method in the 
-mwetoolkit, with frequency information (first column) and MWE surface form (second column).
+mwetoolkit, with frequency information (first column), 
+MWE surface form (second column), length of MWE (thirds column).
 
 SCRIPTS
 -------
